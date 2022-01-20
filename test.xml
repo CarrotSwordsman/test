@@ -1,0 +1,7 @@
+<students>
+    <student studentNo = "2019085071">
+        <name>He Gaojie</name>
+        <gender>male</gender>
+        <specialty>Software Engineering</specialty>
+    </student>
+</students>

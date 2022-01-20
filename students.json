@@ -1,0 +1,21 @@
+[
+    {
+        "studentNo":2009150278,
+        "name":"He Gaojie",
+        "gender":"male",
+        "specialty":"Software Engineering"
+    },
+    {
+        "studentNo":2009150279,
+        "name":"He Jianwei",
+        "gender":"male",
+        "specialty":"Software Engineering"
+
+    },
+    {
+        "studentNo":2009150280,
+        "name":"Zou Rong",
+        "gender":"female",
+        "specialty":"Software Engineering"
+    }
+]
